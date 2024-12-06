@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+}
+
+.main h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #7b0a0a;
+}
+
+.main p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.main {
+    width: 70%;
+    background: #e5d5bb
+}
+
+.container img {
+    width: 80%;
+}
